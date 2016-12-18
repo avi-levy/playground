@@ -1,0 +1,17 @@
+[Event "Casual game"]
+[Site "https://lichess.org/zklbBMYI"]
+[Date "2016.12.17"]
+[White "Anonymous"]
+[Black "Anonymous"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+[Variant "Crazyhouse"]
+[TimeControl "300+5"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Nf3 e6 3. a3 Be7 4. Nc3 g5 5. h3 Nh6 6. Be3 g4 7. Bxh6 gxf3 8. N@g7+ Kd7 9. exf3 Rg8 10. Qd3 c5 11. dxc5 Bxc5 12. Nxd5 exd5 13. Qxd5+ Bd6 14. O-O-O P@e7 15. P@e6+ fxe6 16. Qxe6+ Kc6 17. P@b5+ Kb6 18. P@b4 Bxe6 19. P@a5+ Kc7 20. Nxe6+ Kd7 21. Nxd8 Rxd8 22. P@e6+ Kxe6 23. Q@d5+ Kd7 24. B@f5+ Kc7 25. b6+ axb6 26. axb6+ Kxb6 27. Qb5+ Kc7 28. P@b6# { Black is checkmated } 1-0

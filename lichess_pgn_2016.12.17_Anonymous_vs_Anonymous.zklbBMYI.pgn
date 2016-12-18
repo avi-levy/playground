@@ -1,0 +1,17 @@
+[Event "Casual game"]
+[Site "https://lichess.org/zklbBMYI"]
+[Date "2016.12.17"]
+[White "Anonymous"]
+[Black "Anonymous"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "55"]
+[Variant "Crazyhouse"]
+[TimeControl "300+5"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Nf3 e6 3. a3 Be7 4. Nc3 g5?? { (-0.09 → 4.81) Blunder. Best move was Nf6. } (4... Nf6) 5. h3? { (4.81 → 2.50) Mistake. Best move was Nxd5. } (5. Nxd5) 5... Nh6? { (2.50 → 5.26) Mistake. Best move was h6. } (5... h6) 6. Be3?? { (5.26 → 0.00) Blunder. Best move was h4. } (6. h4 Nf5 7. hxg5 Bf8 8. e4 dxe4 9. Nxe4 Nd7 10. P@f6 P@g7 11. fxg7 Bxg7 12. P@f6 Bf8) 6... g4?? { (0.00 → 7.17) Blunder. Best move was Nf5. } (6... Nf5 7. Bc1 Nh6) 7. Bxh6 gxf3 8. N@g7+ Kd7 9. exf3 Rg8? { (6.52 → 7.68) Mistake. Best move was Qg8. } (9... Qg8 10. Nxe6) 10. Qd3 c5?? { (6.74 → 13.08) Blunder. Best move was a5. } (10... a5 11. P@f5) 11. dxc5 Bxc5 12. Nxd5 exd5 13. Qxd5+ Bd6 14. O-O-O P@e7 15. P@e6+ fxe6 16. Qxe6+?? { (12.43 → 6.78) Blunder. Best move was Nxe6. } (16. Nxe6) 16... Kc6?? { (6.78 → 13.20) Blunder. Best move was Kc7. } (16... Kc7 17. P@c5 Bxe6 18. Nxe6+ Kc8 19. Nxd8 Q@a1+ 20. Kd2 N@b3+ 21. Ke1 Qxd1+ 22. Kxd1 Nxc5 23. B@f5+) 17. P@b5+? { (13.20 → 8.54) Mistake. Best move was Qc4+. } (17. Qc4+ P@c5) 17... Kb6? { (8.54 → 21.97) Mistake. Best move was Kc7. } (17... Kc7 18. Kb1) 18. P@b4? { (21.97 → 8.41) Mistake. Best move was P@c5+. } (18. P@c5+ Kc7) 18... Bxe6 19. P@a5+?? { (9.95 → 3.14) Blunder. Best move was P@c5+. } (19. P@c5+) 19... Kc7 20. Nxe6+ Kd7?? { (4.23 → 9.37) Blunder. Best move was Kc8. } (20... Kc8 21. Nxd8 Q@a1+ 22. B@b1 N@a2+ 23. Kd2 Bxb4+ 24. axb4 Rxd8+ 25. Bd3 Rxd3+ 26. Kxd3 Nxb4+ 27. Kd2) 21. Nxd8 Rxd8? { (8.93 → 19.36) Mistake. Best move was Q@a1+. } (21... Q@a1+ 22. Kd2 Qxd1+ 23. Kxd1 R@d4+ 24. Ke1 Rxd8 25. B@g4+ Rxg4 26. hxg4 B@g6 27. Q@c3 N@c7 28. Q@d1) 22. P@e6+?? { (19.36 → 6.66) Blunder. Best move was B@g4+. } (22. B@g4+ P@e6 23. Bxe6+ Kxe6 24. Q@c4+ B@d5 25. Qxd5+ Kd7 26. Qxb7+ N@c7 27. B@c6+ Ke6 28. Bc4+ Ke5) 22... Kxe6?? { (6.66 → Mate in 3) Checkmate is now unavoidable. Best move was Kc8. } (22... Kc8 23. Kb1) 23. Q@d5+?! { (Mate in 3 → Mate in 5) Not the best checkmate sequence. Best move was B@f5+. } (23. B@f5+ Kxf5 24. g4+ Kf6 25. Q@f5#) 23... Kd7 24. B@f5+?! { (Mate in 5 → Mate in 5) Not the best checkmate sequence. Best move was B@e6+. } (24. B@e6+ Kc7 25. b6+ axb6 26. axb6+ Kxb6 27. Qb5+ Kc7 28. P@b6#) 24... Kc7 25. b6+ axb6 26. axb6+ Kxb6 27. Qb5+ Kc7 28. P@b6# { Black is checkmated } 1-0
